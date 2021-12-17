@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding:UTF-8 -*-
-num_class = 4           # classes to create
+num_class = 25           # classes to create
 Chinese_mode = False    # For Chinese users, set to "True"
 
 import sys
